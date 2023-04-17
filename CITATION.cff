@@ -1,9 +1,9 @@
 cff-version: 1.1.0
 message: "If you use this software, please cite it as below."
 authors:
-  - family-names: Kim
-    given-names: Ekaterina
-    orcid: https://orcid.org/0000-0003-0567-4226
+- family-names: Kim
+  given-names: Ekaterina
+  orcid: https://orcid.org/0000-0003-0567-4226
 title: ekaterk/ICEXPERT: ICEXPERT v1.0.0b
 version: 1.0.0b
 date-released: 2023-04-17
